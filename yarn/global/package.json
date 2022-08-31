@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "3h1-cli": "^0.0.4",
+    "@nestjs/cli": "^8.1.4",
+    "@nestjs/schematics": "^8.0.4",
+    "create-shy": "^1.0.2",
+    "create-vite": "^2.9.0",
+    "typescript": "^4.4.4",
+    "yrm": "^1.0.6"
+  }
+}
